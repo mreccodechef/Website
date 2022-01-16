@@ -87,7 +87,7 @@
 		//Countdown
 		
         $('.countdown').downCount({
-            date: '01/16/2022 10:30:00'
+           date: '01/16/2022 10:30:00'
         }, function () {
             
         });
