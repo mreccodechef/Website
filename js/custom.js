@@ -87,7 +87,7 @@
 		//Countdown
 		
         $('.countdown').downCount({
-           date: '01/16/2022 10:30:00'
+           date: '01/03/2023 20:00:00'
         }, function () {
             
         });
